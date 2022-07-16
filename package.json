@@ -1,5 +1,5 @@
 {
-  "name": "github-activity-readme",
+  "name": "Auto-profile-Updater",
   "version": "0.3.6",
   "description": "Updates README with the recent GitHub activity of a user",
   "main": "index.js",
